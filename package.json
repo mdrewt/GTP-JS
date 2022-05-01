@@ -1,0 +1,19 @@
+{
+  "name": "gtp-js",
+  "version": "1.0.0",
+  "description": "An implementation of the Go Text Protocol in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrewt/GTP-JS.git"
+  },
+  "author": "Drew Teter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdrewt/GTP-JS/issues"
+  },
+  "homepage": "https://github.com/mdrewt/GTP-JS#readme"
+}
